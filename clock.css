@@ -1,0 +1,52 @@
+body {
+  background-color: #F7F4F3;
+  color: #564D4A; }
+
+.header {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Lobster", cursive; }
+  .header h2 {
+    font-size: 70px;
+    color: #5B2333; }
+
+.container {
+  max-width: 450px; }
+
+.controls {
+  font-family: "Work Sans", sans-serif; }
+
+.btn-group {
+  display: block; }
+  .btn-group .control {
+    background: none;
+    border: none;
+    font-size: 25px;
+    outline-style: none;
+    cursor: pointer; }
+  .btn-group p {
+    font-size: 30px;
+    margin: -5px; }
+
+.clock {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 300px;
+  height: 300px;
+  border-style: solid;
+  border-color: #BA1B1D;
+  border-radius: 50%;
+  cursor: pointer; }
+  .clock #mode {
+    margin-top: 40px; }
+  .clock #timer {
+    margin-top: 45px;
+    font-size: 55px; }
+
+.footer {
+  margin-top: 30px; }
+
+.hidden {
+  visibility: none; }
+
+/*# sourceMappingURL=clock.css.map */
